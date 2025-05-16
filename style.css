@@ -1,0 +1,17 @@
+:root {
+	/* Farben */
+	--color-white: #f2feff;
+
+	/* Schriftgrössen */
+	--font-size-bigTitel: 100px;
+	--font-size-titel: 80px;
+	--font-size-subtitel: 40px;
+	--font-size-normal: 20px;
+	--font-size-small: 15px;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
