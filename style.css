@@ -1,17 +1,8 @@
-:root {
-	/* Farben */
-	--color-white: #f2feff;
-
-	/* Schriftgrössen */
-	--font-size-bigTitel: 100px;
-	--font-size-titel: 80px;
-	--font-size-subtitel: 40px;
-	--font-size-normal: 20px;
-	--font-size-small: 15px;
-}
-
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+/* Styling für die Uhr */
+#uhr {
+  font-size: 3em;         /* Große Schrift */
+  color: #17d4fe;         /* Blaue Farbe */
+  letter-spacing: 7px;    /* Abstand zwischen den Ziffern */
+  text-align: center;     /* Zentriert */
+  margin-top: 20vh;       /* Abstand von oben */
 }
